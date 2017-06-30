@@ -72,7 +72,7 @@ defaults:
     include_subnav: true
 description: NYC Planning Labs builds open, impactful technology tools for NYC's Urban
   Planners.
-baseurl: ''
+baseurl: 
 permalink: pretty
 url: https://planninglabs.nyc
 localhost: localhost:4000
@@ -85,7 +85,7 @@ related_posts: 3
 google_analytics: UA-84250233-4
 analytics:
   google:
-    code: ''
+    code: 
   dap:
     agency: DCP
     subagency: Labs
