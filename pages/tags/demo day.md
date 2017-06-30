@@ -1,6 +1,7 @@
 ---
-permalink: /tags/demo day/
+permalink: "/tags/demo day/"
 redirect_to:
-  - /tags/demo-day/
+- "/tags/demo-day/"
 skip_index: true
 ---
+

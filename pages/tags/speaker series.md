@@ -1,6 +1,7 @@
 ---
-permalink: /tags/speaker series/
+permalink: "/tags/speaker series/"
 redirect_to:
-  - /tags/speaker-series/
+- "/tags/speaker-series/"
 skip_index: true
 ---
+

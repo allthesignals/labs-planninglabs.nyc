@@ -1,19 +1,27 @@
 ---
-layout: post
-date: '2017-06-12T11:14:29-04:00'
-title: "Cloning 18f.gsa.gov"
-
-
-description: By leveraging an existing open source project, we were able to get planninglabs.nyc up and running in a couple of days.  We chose to clone 18f.gsa.gov and modify it because it had everything we needed.  In fact, much of Labs’ mission and philosophy is inspired by 18F's, so it makes sense that their site would have a lot of the features we want to have on ours, specifically beautiful and informative project pages, a project index with cards, a blog, responsive standards-based design, and a great content that helps to explain their principles.
-
-excerpt: By leveraging an existing open source project, we were able to get planninglabs.nyc up and running in a couple of days.  We chose to clone 18f.gsa.gov and modify it because it had everything we needed.  In fact, much of Labs’ mission and philosophy is inspired by 18F's, so it makes sense that their site would have a lot of the features we want to have on ours, specifically beautiful and informative project pages, a project index with cards, a blog, responsive standards-based design, and a great content that helps to explain their principles.
-image:
-authors:
-- chriswhong
+title: Cloning 18f.gsa.gov
+date: 2017-06-12 15:14:29 Z
 tags:
 - open source
 - code reuse
-
+layout: post
+description: By leveraging an existing open source project, we were able to get planninglabs.nyc
+  up and running in a couple of days.  We chose to clone 18f.gsa.gov and modify it
+  because it had everything we needed.  In fact, much of Labs’ mission and philosophy
+  is inspired by 18F's, so it makes sense that their site would have a lot of the
+  features we want to have on ours, specifically beautiful and informative project
+  pages, a project index with cards, a blog, responsive standards-based design, and
+  a great content that helps to explain their principles.
+excerpt: By leveraging an existing open source project, we were able to get planninglabs.nyc
+  up and running in a couple of days.  We chose to clone 18f.gsa.gov and modify it
+  because it had everything we needed.  In fact, much of Labs’ mission and philosophy
+  is inspired by 18F's, so it makes sense that their site would have a lot of the
+  features we want to have on ours, specifically beautiful and informative project
+  pages, a project index with cards, a blog, responsive standards-based design, and
+  a great content that helps to explain their principles.
+image: 
+authors:
+- chriswhong
 hero: false
 ---
 

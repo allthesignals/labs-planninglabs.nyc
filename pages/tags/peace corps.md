@@ -1,6 +1,7 @@
 ---
-permalink: /tags/peace corps/
+permalink: "/tags/peace corps/"
 redirect_to:
-  - /tags/peace-corps/
+- "/tags/peace-corps/"
 skip_index: true
 ---
+

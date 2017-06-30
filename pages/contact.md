@@ -1,12 +1,13 @@
 ---
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
 layout: primary
 content_wide: true
-image: /assets/img/page-feature/subway.jpg
-redirect_from: /hire/
+image: "/assets/img/page-feature/subway.jpg"
+redirect_from: "/hire/"
 gridless: true
 ---
+
 <div class="usa-grid-full usa-grid-reversed">
 <aside class="usa-grid usa-section usa-grid-reversed-right usa-width-one-third section-info section-info-gray">
   <ul>

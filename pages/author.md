@@ -1,5 +1,6 @@
 ---
+permalink: "/author/"
 layout: default
-permalink: /author/
-redirect_from: /team/
+redirect_from: "/team/"
 ---
+

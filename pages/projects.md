@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects/
+permalink: "/projects/"
 layout: primary
 lead: We design, prototype, and build lightweight & open technology tools for planners.
 content_wide: true

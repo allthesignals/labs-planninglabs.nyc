@@ -1,6 +1,7 @@
 ---
-permalink: /tags/usability testing/
+permalink: "/tags/usability testing/"
 redirect_to:
-  - /tags/usability/
+- "/tags/usability/"
 skip_index: true
 ---
+

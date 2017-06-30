@@ -1,8 +1,8 @@
 ---
 title: Open source policy
-permalink: /open-source-policy/
+permalink: "/open-source-policy/"
 layout: primary
-lead:
+lead: 
 ---
 
 This is a copy of the NYC Planning Labs open source policy. The [official document lives in GitHub](https://github.com/nycplanning/labs-open-source-policy/blob/master/policy.md). If you would like to comment or suggest a change to the policy, please do so there.

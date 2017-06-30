@@ -1,18 +1,22 @@
 ---
-layout: post
-date: '2017-06-12T10:14:29-04:00'
-title: "Hello, World! We are NYC Planning Labs"
-
-description: NYC Planning Labs is a new tech services unit in the NYC Department of City Planning.  We are passionate about applying modern technology best practices to Urban Planning problems, and will deliver lightweight, open, and impactful tools to support the agency.  
-
-excerpt: NYC Planning Labs is a new tech services unit in the NYC Department of City Planning.  We are passionate about applying modern technology best practices to Urban Planning problems, and will deliver lightweight, open, and impactful tools to support the agency.
-image:
-authors:
-- Labs
+title: Hello, World! We are NYC Planning Labs
+date: 2017-06-12 14:14:29 Z
 tags:
 - open source
 - culture change
 - modern practices
+layout: post
+description: NYC Planning Labs is a new tech services unit in the NYC Department of
+  City Planning.  We are passionate about applying modern technology best practices
+  to Urban Planning problems, and will deliver lightweight, open, and impactful tools
+  to support the agency.
+excerpt: NYC Planning Labs is a new tech services unit in the NYC Department of City
+  Planning.  We are passionate about applying modern technology best practices to
+  Urban Planning problems, and will deliver lightweight, open, and impactful tools
+  to support the agency.
+image: 
+authors:
+- Labs
 hero: false
 ---
 

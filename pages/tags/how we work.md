@@ -1,6 +1,7 @@
 ---
-permalink: /tags/how we work/
+permalink: "/tags/how we work/"
 redirect_to:
-  - /tags/how-we-work/
+- "/tags/how-we-work/"
 skip_index: true
 ---
+

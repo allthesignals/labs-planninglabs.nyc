@@ -1,6 +1,7 @@
 ---
-permalink: /feed/index.html
+permalink: "/feed/index.html"
 redirect_to:
-- /feed.xml
+- "/feed.xml"
 skip_index: true
 ---
+

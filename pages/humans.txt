@@ -1,7 +1,8 @@
 ---
-layout: null
-permalink: /humans.txt
+permalink: "/humans.txt"
+layout: 
 ---
+
 /* TEAM */
 {% for member in site.data.team %}
 Name: {{ member.full_name }}

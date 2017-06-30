@@ -1,6 +1,7 @@
 ---
-permalink: /tags/presidential innovation fellows/
+permalink: "/tags/presidential innovation fellows/"
 redirect_to:
-  - /tags/presidential-innovation-fellows/
+- "/tags/presidential-innovation-fellows/"
 skip_index: true
 ---
+

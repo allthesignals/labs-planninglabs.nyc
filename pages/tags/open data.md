@@ -1,6 +1,7 @@
 ---
-permalink: /tags/open data/
+permalink: "/tags/open data/"
 redirect_to:
-  - /tags/open-data/
+- "/tags/open-data/"
 skip_index: true
 ---
+

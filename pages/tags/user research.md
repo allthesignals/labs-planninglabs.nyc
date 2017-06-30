@@ -1,6 +1,7 @@
 ---
-permalink: /tags/user research/
+permalink: "/tags/user research/"
 redirect_to:
-  - /tags/user-research/
+- "/tags/user-research/"
 skip_index: true
 ---
+
